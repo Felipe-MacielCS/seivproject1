@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+    font-size: 80px;
+}
+
+.home_image{
+    display: block;
+    margin-left: 70px;
+}
+
+.home_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.block_content{
+    background-color: #CCB682;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #582900;
+    width: 700px;
+    height: 500px;
+    font-size: 32px;
+    margin-left: 200px;
+    padding: 20px;
+    text-align: justify;
+}
