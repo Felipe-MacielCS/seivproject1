@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    font-size: 80px;
+}
+
+.home_image{
+    display: block;
+    margin-left: 70px;
+    flex-shrink: 0;
+}
+
+.home_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+}
+
+.block_content{
+    background-color: #CCB682;
+    border-radius: 10px;
+    border: 2px solid #582900;
+    width: 700px;
+    height: 500px;
+    font-size: 24px;
+    margin-left: 200px;
+    padding: 20px;
+    text-align: left;
+    line-height: 1.4;
+    overflow: hidden;
+    box-sizing: border-box;
+}
