@@ -1,22 +1,6 @@
-body {
-    background-color: #E5D5B0;
-    margin: 0;
-    padding: 20px;
-    font-family: serif;
-}
-
-.emphasis {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 40px;
-}
-
 .emphasis h1 {
-    color: #143076;
-    font-weight: 400;
-    font-family: serif;
-    font-size: 100px;
-    margin: 0;
+    font-size: 80px;
+    text-align: center;
 }
 
 .box {
@@ -37,7 +21,7 @@ body {
 .box h2 {
     margin-top: 0;
     margin-bottom: 20px;
-    font-size: 1.2em;
+    font-size: 20px;
 }
 
 .box-containers {
@@ -65,4 +49,8 @@ body {
   font-size: 14px;
   border-radius: 999px; 
   text-decoration: none;
+}
+
+.learn_more:hover {
+  background-color: #0d204d;
 }
