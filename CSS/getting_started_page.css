@@ -40,3 +40,14 @@
       vertical-align: center;
       margin-right: -100px;
 }
+
+.day-in-the-life {
+      display: inline-block;
+      margin-top: -25px;  
+      margin-bottom: 10px;
+      padding: 4px 12px;
+      background-color: #143076;
+      color: white;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+}
