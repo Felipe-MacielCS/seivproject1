@@ -2,3 +2,30 @@
     text-align: center;
     font-size: 20px;
 }
+
+.day-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.day-box{
+    border: 2px solid;
+    border-color: #582900;
+    padding: 20x;
+    background-color: #CCB682;
+    text-align: left;
+}
+
+.day-box h3 {
+      margin-top: 0;
+      font-size: 20px;
+      text-align: center;
+}
+
+.day-box p {
+      font-size: 18px;
+      line-height: 1.5;
+}
