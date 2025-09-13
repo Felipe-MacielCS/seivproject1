@@ -2,6 +2,15 @@ html, body{
     background-color: #e5d5b0;
     margin: 0;
     padding: 0;
+    font-family: serif;
+}
+
+h2{
+    color: #2B1400;
+}
+
+h1{
+    color: #143076;
 }
 
 .line {
