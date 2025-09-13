@@ -1,0 +1,53 @@
+.title h1{
+      text-align: center;
+      font-size: 80px;
+}
+.welcome-box {
+      border: 2px solid; 
+      border-color: #582900;
+      background-color: #d9b98e;
+      margin: -40px auto 30px auto;
+      max-width: 1400px;
+      text-align: center;
+}
+.info-box {
+      border: 2px solid;
+      border-color: #582900;
+      background-color: #d9b98e;
+      margin:-20px 30px;
+      max-width: 3500px;
+      text-align: center;
+      vertical-align: left;
+}
+.content {
+      max-width: 1100px;
+      margin: 0 auto;
+}
+
+.text-column {
+      float: left;
+      width: 80%;   
+      margin-right: 20px;
+      margin-left: -180px;
+      vertical-align: center;
+
+}
+
+.image-block {
+      float: right;
+      width: 40%;   
+      height: auto;
+      vertical-align: center;
+      margin-right: -100px;
+}
+
+.day-in-the-life {
+      display: inline-block;
+      margin-top: -25px;  
+      margin-bottom: 10px;
+      padding: 4px 12px;
+      background-color: #143076;
+      color: white;
+      border-radius: 8px;
+      transition: background-color 0.3s;
+}
